@@ -1,0 +1,50 @@
+_repo: Poems-and-translations_73189
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Petrarca, Francesco
+    aliases:
+    - Petrarch
+    - Petrarca, Franciscus
+    - Petrarch, Francesco
+    - Petrarcha, Franciscus
+    birthdate: 1304
+    deathdate: 1374
+    gutenberg_agent_id: '7519'
+    url: http://www.gutenberg.org/2009/agents/7519
+    wikipedia: https://en.wikipedia.org/wiki/Petrarch
+  - agent_name: Synge, J. M. (John Millington)
+    aliases:
+    - Synge, Edmund John Millington
+    - Synge, John Millington
+    - Synge, John M.
+    birthdate: 1871
+    deathdate: 1909
+    gutenberg_agent_id: '504'
+    url: http://www.gutenberg.org/2009/agents/504
+    wikipedia: https://en.wikipedia.org/wiki/John_Millington_Synge
+description: ''
+gutenberg_issued: '2024-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73189'
+language: en
+pgterms:marc904: https://archive.org/details/translation00poemssyngrich/page/n9/mode/2up
+pgterms:marc905: 20210416084256synge
+pgterms:marc906: '1909'
+pgterms:marc907: IE
+production_note: Carla Foust, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aDublin :$bMaunsel & Company, Ltd., $c1909, copyright 1910,
+  pubdate 1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Poetry'
+- !lcsh 'Poetry -- Translations into English'
+- !lcc 'PR'
+- GITenberg
+title: Poems and translations
+url: http://www.gutenberg.org/ebooks/73189
